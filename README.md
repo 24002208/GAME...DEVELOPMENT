@@ -123,14 +123,17 @@ closegraph();
 
 x-axis
 P=45
+
 ![alt text](8-3.jpg) 
 
 y-axis
 Q=45
+
 ![alt text](8-4.jpg) 
 
 z-axis
 R=45
+
 ![alt text](8-5.jpg)
 
 ## Result :
